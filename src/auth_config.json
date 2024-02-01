@@ -1,0 +1,6 @@
+{
+  "domain": "bd-450.au.auth0.com",
+  "clientId": "GftuASNzQmlrAZTxQVleqU6w6IFyhssw",
+  "audience": "http://localhost:7071/api",
+  "appOrigin": "http://localhost:3000"
+}
